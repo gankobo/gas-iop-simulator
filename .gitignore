@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Logs / scratch
+*.log
+calibration_log.txt
+scratch_*.py
+
+# OS
+Thumbs.db
+.DS_Store
