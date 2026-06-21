@@ -28,8 +28,7 @@ vitrectomy or pneumatic retinopexy.
 
 ## 触ってみる / Try it
 
-- **オンライン（リンクで誰でも）/ Online:** `https://<your-app>.streamlit.app`
-  （Streamlit Community Cloud にデプロイ後、この URL を差し替えてください）
+- **オンライン（リンクで誰でも）/ Online:** **https://gas-iop-simulator-nbcyuehnq2nlhu7hxynappy.streamlit.app/**
 - **手元で動かす / Run locally:**
 
   ```bash
